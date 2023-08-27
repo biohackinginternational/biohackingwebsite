@@ -13,10 +13,9 @@
 </div></div>
 
 
+![Pasted image 20230827151716.png](/img/user/Pasted%20image%2020230827151716.png)
 # International Biohacking Community
 ## The home of: grinders, biohackers, diy-biologists
-
-![Pasted image 20230827151716.png](/img/user/Pasted%20image%2020230827151716.png)
 
 > [!abstract] Our Sites
 > [Forums](https://biohackingintl.com/)
