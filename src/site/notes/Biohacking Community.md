@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/biohacking-community/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"permalink":"/biohacking-community/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 
